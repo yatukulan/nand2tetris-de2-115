@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "19.1"
+DATE = "00:00:00  November 02, 2026"
+
+# Revisions
+
+PROJECT_REVISION = "hack_computer"
